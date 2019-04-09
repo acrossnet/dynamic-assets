@@ -7,7 +7,7 @@ conforming to classes.  This is in an early state, and will definitely evolve ov
 
 Detailed documentation is in the "docs" directory.
 
-This is still a technology preview.
+This is still a technology preview, and can be easily tested by the *assets* repo. It is also being used in the *rosa* repo.
 
 Quick start
 -----------
